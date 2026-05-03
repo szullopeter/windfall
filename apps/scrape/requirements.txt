@@ -1,2 +1,2 @@
-httpx[http2] 
-trafilatura[all]
+httpx[http2]==0.28.1
+trafilatura==2.0.0
